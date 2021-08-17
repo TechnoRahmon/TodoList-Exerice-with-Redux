@@ -1,4 +1,4 @@
-# React Phone Book
+# React Todo List App
 it's a react exercise to practice Redux. 
 in this project, 3 principle of Redux , Store, Action Reducer 
 To make A todo List application that will add new todo and delete An existing todo item. 
